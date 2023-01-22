@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Rekha Yadav</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m Currently Pursuing Full Stack Web Developer Course<br>🌱 I’m currently Exploring new technologies<br>💬 Ask me about tech-related Stuff<br>📫 How to reach me: rekha.ee026@gmail.com<br>💬You can check my portfolio :https://rekha0980.github.io/<br>😄 Pronouns: She/Her<br>⚡ Fun fact: Listen to 90s music
 
