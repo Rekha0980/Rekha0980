@@ -1,7 +1,7 @@
-
+<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
 <h1 align="center">Hi 👋, I'm Rekha Yadav</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
+
 
 # 💫 About Me:
 🔭 I’m Currently Pursuing Full Stack Web Developer Course<br>🌱 I’m currently Exploring new technologies<br>💬 Ask me about tech-related Stuff<br>📫 How to reach me: rekha.ee026@gmail.com<br>💬You can check my portfolio :https://rekha0980.github.io/<br>😄 Pronouns: She/Her<br>⚡ Fun fact: Listen to 90s music
