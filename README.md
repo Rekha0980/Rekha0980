@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
 <h1 align="center">Hi 👋, I'm Rekha Yadav</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
 # 💫 About Me:
